@@ -2,4 +2,4 @@
 </hr>
 
 
-[Watch the Video Tutorial](https://youtu.be/URLzBYYOi-A?si=HE-DRN5tH7_hMqwl)
+[Watch the Video Tutorial](https://youtu.be/2TwhvOKBmGY?si=XIfpKhDhXkGYqmuJ)
