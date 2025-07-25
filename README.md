@@ -159,7 +159,11 @@ Then ensure your Subnet and Public IP are created. This will allow us to communi
 <img src="https://i.imgur.com/eh1mNVn.png">
 <img src="https://i.imgur.com/IaGbbQP.png">
   <br>
+  
 UnAuthenticated
+
 <img src="https://i.imgur.com/IkMMjr8.png">
+
 Authenticated
+
 <img src="https://i.imgur.com/SSWoHNU.png">
