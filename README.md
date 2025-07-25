@@ -59,7 +59,7 @@ Resource Groups keep everything that belongs to this VM together, so you can man
 
   <br>
 
-<img src="https://i.imgur.com/0yseEHP.png">
+
 
   <br>
 
@@ -89,7 +89,7 @@ Microsoft requires you to attest you’re properly licensed to run Win 10/11 as 
 
   <br>
 
-<img src="https://i.imgur.com/6QwqAVp.png">
+<img src="https://i.imgur.com/KeEUhao.png">
 
 <img src="https://i.imgur.com/TqHDSCb.png">
 
